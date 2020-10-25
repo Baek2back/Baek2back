@@ -6,7 +6,11 @@
 	
 </div>
 
+ <div align=center>
+	
 [![Baek2back's github stats](https://github-readme-stats.vercel.app/api?username=Baek2back&show_icons=true&count_private=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 <!--
 **Baek2back/Baek2back** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
